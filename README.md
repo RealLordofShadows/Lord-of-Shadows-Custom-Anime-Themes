@@ -1,6 +1,6 @@
-# Lord-of-Shadows-Custom-BetterDiscord-Themes  ("WIP!!!")
-Custom BetterDiscord Themes
-
+# Lord-of-Shadows-Custom-BetterDiscord-&-Browser-Themes  ("WIP!!!")
+Custom BetterDiscord & Browser Themes
+(Also compatible with Chrome or Mozilla Firefox Stylus/Stylish Extensions or other similiar extensions)
 
 Additional Customizations & Primary Base Line for 4 column server list by: LordofShadowsHoppou#2151
 
