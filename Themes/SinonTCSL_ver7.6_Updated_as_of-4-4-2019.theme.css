@@ -1,5 +1,5 @@
-//META{"name":"SamuraiGirlQCSL","description":"Samurai Girl Anime theme made by LordofShadowsHoppou#2151 Core Lines & Import Core by puckzxz#2080 and Quake#1470","author":"LordofShadowsHoppou#2151","version":"7.6"}*//{}
-@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/qcsl.css);
+//META{"name":"SinonTCSL","description":"Sinon Anime theme made by LordofShadowsHoppou#2151 Core Lines & Import Core by puckzxz#2080 and Quake#1470","author":"LordofShadowsHoppou#2151","version":"7.6"}*//{}
+@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/tcsl.css);
 
 
 /* To make editing this theme easier I recommend using Notepad++ , you can download it for free here - https://notepad-plus-plus.org/download/ */
@@ -14,9 +14,9 @@
 /*Core*/
 :root {
     /* Edit this to change your background */
-    --background-image: url("https://i.imgur.com/H4T8RkD.png"); /* format is url(IMAGE URL HERE) */
+    --background-image: url("https://i.imgur.com/PyzeAlq.png"); /* format is url(IMAGE URL HERE) */
     /* Edit this to change your friends icon picture, picture  */
-    --friends-icon: url(https://i.imgur.com/cabJGmi.png); /* format is url(IMAGE URL HERE) */
+    --friends-icon: url(https://i.imgur.com/JLkWMmD.png); /* format is url(IMAGE URL HERE) */
     /* Edit this to change your friends icon picture, position  */
     --friends-icon-position: center center; /* default: center center */
     /* Edit this to change your friends icon picture, zoom  */
@@ -24,7 +24,7 @@
     /* Change the main color */
     --main-color: rgb(67, 181, 129); /* default: rgb(67, 181, 129); */
     /* Change global transparency */
-    --main-transparency: rgba(0, 0, 0, 0.65); /* default: rgba(0, 0, 0, 0.8); */ 
+    --main-transparency: rgba(0, 0, 0, 0.8); /* default: rgba(0, 0, 0, 0.8); */ 
 
     /* Change the unread server animation. Replace it with "none" in order to remove any animations */
     --unread-server-animation: rainbow;
@@ -122,7 +122,7 @@
     flex-shrink: 0;
     overflow: hidden;
     position: relative;
-    width: 262px; /*this changes the  server list column width combine with scrollwrap to increase server columns*/
+    width: 208px; /*this changes the  server list column width combine with scrollwrap to increase server columns*/
     left: 0px;
 }
 
@@ -135,15 +135,15 @@
 
 /*this changes the scrollbar & trackbar location*/
 .guildsWrapper-5TJh6A .scroller-wrap{
-    width: 262px;
+    width: 208px;
 }
 
 .scrollerWrap-1IAIlv {
-    width: 262px;
+    width: 208px;
 }
 
 .wrapper-1Rf91z {
-    width: 262px;
+    width: 208px;
 }
 
 /*this changes server scrollbar dimensions*/
@@ -257,8 +257,8 @@ OF THE AMOUNT OF SERVERS YOU ARE IN*/
 						color: #99aab5;
 						background: #f3f3f3;
 					}
-						
-			
+
+					
 /*THIS HIDES PESKY UPDATE NOTIFICATION POPUPS*/
 .noticeInfo-3_iTE1 {
     display: none;
