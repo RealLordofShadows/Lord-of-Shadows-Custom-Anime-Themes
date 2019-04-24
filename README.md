@@ -1,5 +1,5 @@
-# Lord-of-Shadows-Custom-Anime-Themes  ("WIP!!!")
-Custom Anime Themes
+# Lord-of-Shadows-Custom-BetterDiscord-Themes  ("WIP!!!")
+Custom BetterDiscord Themes
 
 
 Additional Customizations & Primary Base Line for 4 column server list by: LordofShadowsHoppou#2151
