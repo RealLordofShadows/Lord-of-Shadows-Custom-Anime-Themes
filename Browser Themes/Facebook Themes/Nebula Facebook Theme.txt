@@ -1,0 +1,792 @@
+/*This Twitch Theme is Created by Lord of Shadows/*
+/*Theme Name: Nebula Facebook Theme*/
+
+/* ALL SECTIONS ARE SET TO URLS STARTING WITH: https://www.facebook.com/ */
+/* ALL SECTIONS ARE SET TO URLS ON THE DOMAIN WITH: https://www.facebook.com/ */
+
+
+/*Primary Section*/
+
+/*THIS CHANGES THE BACKGROUND IMAGE OF FACEBOOK*/
+body {
+    background: url(https://i.imgur.com/uPSYoCG.jpg);
+    max-width: 100%;
+    height: 1080px;
+	background-repeat: repeat; 
+}
+
+/*THIS CHANGES THE LEFT NAV BAR TEXT COLOR AND BOX TRANSPARENCYT*/
+._3m75 .sideNavItem.selectedItem
+	._bui ._5afe {
+    border-bottom: 1px solid #fff;
+    color: #1d5ede; /*Blue*/
+    display: block;
+    line-height: 13px;
+    min-height: 17px;
+    padding: 3px 8px 0 28px;
+    -webkit-user-select: none;
+}
+                                            
+._3m75 .sideNavItem.sideNavItem.sideNavItem ._5afe {
+    background-color: #db5a5a9c; /*Tranparent Red*/
+    height: 28px;
+    line-height: 28px;
+    position: relative;
+    z-index: 0;
+    
+} 
+
+/*THIS CHANGES THE COLOR WHEN HOVERING OVER LEFT NAVIGATION BOX*/
+.navHeader ._1pej::after, ._3m75 .sideNavItem ._5afe::after {
+    background-color: #2f6dea; /*Blue*/
+    border: 1px solid #ff0000; /*Red*/
+    border-radius: 2px;
+    bottom: -1px;
+    content: '';
+    display: block;
+    left: -1px;
+    opacity: 0;
+    position: absolute;
+    right: -1px;
+    top: -1px;
+    transition: 400ms cubic-bezier(.08,.52,.52,1) background-color, 400ms cubic-bezier(.08,.52,.52,1) border-color, 400ms cubic-bezier(.08,.52,.52,1) opacity;
+    z-index: -1;
+}
+
+/*THIS CHANGES THE COLOR & TRANSPARENCY OF THE MAIN CONTENT OVERLAY BOX*/
+._5vb_, ._5vb_ #contentCol {
+    background-color: #fafafa00;
+    color: #1d2129;
+}
+
+/*THIS CHANGES THE COLOR & TRANSPARENCY OF THE MESSAGE POSTING ENTRY BOX*/
+._1hx ._3en1 {
+    background-color: #5ed1c75c;
+    border: 0;
+    box-sizing: border-box;
+    display: block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    height: 100%;
+    line-height: 18px;
+    min-height: 69px;
+    outline: 0;
+    padding: 23px 12px 14px;
+    resize: none;
+    width: 100%;
+}
+
+/*THIS CHANGES THE COLOR OF MOST OF NAME POSTS AND OTHER TEXT*/
+a {
+    color: rgba(0, 79, 255, 1);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/*THIS CHANGES THE COLOR OF ACTUAL TEXT IN POSTS*/
+._5vb_, ._5vb_ #contentCol {
+    background-color: #fafafa00;
+    color: #63ced1;
+}
+
+/*THIS CHANGES THE COLOR AND TRANSPARENCY OF THE PRIMARY POSTING CONTENT BOXES*/
+._4-u8 {
+    background-color: #ffffff00;
+}
+
+/*THIS CHANGES THE PREVIEW & IMAGE BORDER COLOR*/
+._5v3q ._4-eo::after {
+    border: 1px solid rgba(235, 31, 31, 0);
+    bottom: 0;
+    content: '';
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+/*THIS CHANGES THE COLOR AND TRANSPARANCY OF THE "WRITE A COMMENT" SURROUNDING CONTAINER*/
+._3-a6._65_9._5vsj .UFIRow, ._3-a6._65_9._5vsj.UFIContainer .UFIReplyList .UFIRow, ._3-a6._65_9._5vsj._5vsj._5vsj, ._6q1a ._3-a6._65_9._5vsj .UFIRow, ._6q1a ._3-a6._65_9._5vsj.UFIContainer .UFIReplyList .UFIRow, ._6q1a ._3-a6._65_9._5vsj._5vsj._5vsj {
+    background-color: #b9262600;
+}
+
+/*THIS CHANGES THE SMILEY ICON IN THE MESAGE BOX*/
+._15i7 .UFICommentEmojiIcon {
+    color: #fafafa00;
+    background-image: url(https://i.imgur.com/vE5cDIL.png);
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position: 0px 0px;
+    height: 16px;
+    width: 16px;
+}
+
+/*THIS CHANGES THE CAMERA ICON IN THE MESSAGE BOX*/
+._15i7 .UFICommentPhotoIcon {
+    background-image: url(https://i.imgur.com/6MSGbAa.png);
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position: 0px 0px;
+    height: 16px;
+    width: 16px;
+}
+
+/*THIS CHANGES THE ADD GIF ICON IN THE MESSAGE BOX*/
+._15i7 .UFICommentGifIcon {
+    background-image: url(https://i.imgur.com/nmL1L3p.png);
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+    background-position: -2.2px -2.2px;
+    height: 16px;
+    width: 16px;
+}
+
+/*THIS CHANGES THE STICKER ICON IN THE MESSAGE BOX*/
+._15i7 .UFICommentStickerIcon {
+    background-image: url(https://i.imgur.com/IctHAJ6.png);
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position: 0px 0px;
+    height: 16px;
+    width: 16px;
+}
+
+/*THIS CHANGES THE COLOR AND TRANPARENCY OF THE POST LIKE COUNT BOX*/
+._1g5v+._4arz {
+    background: #1d78d300;
+    margin-left: -100px;
+    min-width: 100px;
+}
+
+/*THIS CHANGES THE COLOR OF LIKE COUNT NUMBER*/
+._1i6z ._ipn {
+    color: #d1ff00;
+}
+
+/* THIS CHANGES THE MESSAGE TO TYPE TEXT COLOR*/
+._5rp7, ._5rpb, ._5rpu {
+    height: inherit;
+    text-align: initial;
+    color: rgba(184, 79, 255, 1);
+}
+
+/*THIS CHANGES THE POPUP TYPING POSTING BOX COLOR AND TRANSPARENCY*/
+._3ubp {
+    background-color: #00000000; /*MAIN HEADER BOX*/
+    border-bottom: 1px solid #347eecfc; /*HEADER DIVIDER LINE*/
+    border-radius: 2px 2px 0 0;
+    font-weight: bold;
+    padding: 8px 6px;
+}
+
+/*THIS CHANGES THE COLOR AND TRANSPARENCY OF THE POSTING HEADER BOX*/
+._sg1 {
+    background-color: #265dc900;
+    border-left: 1px solid #0757f7; /*THIS CHANGES THE HEADER BOX DIVIDERS COLOR*/
+    color: #365899;
+    padding: 0 4px;
+    position: relative;
+}
+
+/*THIS CHANGES THE COLOR OF THE POSTING HEADER BOX*/
+._4-h7, ._2mo4 {
+    display: inline;
+    padding: 4px 6px 4px 4px;
+    color: #f61313;
+}
+
+/*THIS CHANGES THE COLOR OF THE MAKE POST BUTTON*/
+._5qtn ._5qtp {
+    color: #f61313;
+}
+._5qtp {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 14px;
+}
+
+/*THIS CHANGES THE COLOR AND TRANSPARENCY OF THE PST SETTINGS BOX*/
+._1pek {
+    background-color: #a715e100;
+}
+._2dck {
+    border-radius: 0 0 3px 3px;
+    border-top: 1px solid #dddfe2;
+}
+
+
+/*THIS CHANGES THE COLOR OF FACEBOOK TOP BANNER TEXT AND BAR*/
+._2s1x ._2s1y {
+    background-color: #ffffff00; /*MAIN TOP BANNER COLOR BAR*/
+    border-bottom: 1px solid #ff0000; /*TOP BANNER DIVIDER*/
+    color: #fffe04; /*TEXT COLOR*/
+}
+
+/*THIS CHANGES THE COLOR AND TRANSPARENCY OF THE NUMBER OF POST COMMENTS CONTAINER BOX*/
+._ipo {
+    background: #c71f1f00; 
+    float: right;
+    max-width: 250px;
+    text-align: right;
+}
+
+/*THIS CHANGES THE MAIN SEARCH BAR COLOR*/
+._585- {
+    background-color: #00000000; /*SEARCH BAR INTERIOR COLOR*/
+    border: 1px solid #f00; /*SEARCH BAR BORDER COLOR*/
+    border-radius: 3px;
+    box-sizing: border-box;
+    height: 26px;
+    left: -1px;
+    margin-left: 30px;
+    margin-top: 0;
+    max-width: 448px;
+    overflow: hidden;
+    padding-left: 5px;
+    padding-right: 48px;
+    position: relative;
+    top: 8px;
+    width: auto;
+}
+
+/*THIS CHANGES THE MAIN SEARCH BAR TEXT COLOR*/
+._5861 ._586f, ._5861 ._586i, ._5861 ._1frb {
+    color: #f00;
+}
+
+
+/*THIS CHANGES THE SEARCH BAR BUTTON CONTAINER BOX COLOR*/
+._585- ._4w98._4w97, ._585- ._4w98._4w97:hover {
+    background: #4080ff00;
+}
+
+
+/*THIS CHANGES THE SEARCH BAR ICON*/
+._4w97 ._585_ {
+    background-image: url(https://i.imgur.com/qCSyIVc.png);
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position: 0px 1px;
+    height: 16px;
+    width: 16px;
+}
+._585_ {
+    background-image: url(https://i.imgur.com/qCSyIVc.png);
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position: 0px 1px;
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    position: absolute;
+    right: 6px;
+    top: 4px;
+    width: 16px;
+    z-index: 2;
+}
+
+/*THIS CHANGES THE SEARCH BAR BUTTON CONTAINER*/
+._585- ._4w98 {
+    background: #df584e00;
+    border: none;
+    border-radius: 0 2px 2px 0;
+    bottom: 0;
+    cursor: pointer;
+    display: block;
+    line-height: 1;
+    padding: 0 16px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    z-index: 1;
+}
+
+/*THIS CHANGES THE FACEBOOK HEADER ICON*/
+._2md {
+    background-image: url(https://i.imgur.com/PVaWzBz.png);
+    background-repeat: no-repeat;
+    background-size: 22px 20px;
+    background-position: 0px 2px;
+    display: block;
+    height: 24px;
+    outline: none;
+    overflow: hidden;
+    text-indent: -999px;
+    white-space: nowrap;
+    width: 24px;
+}
+
+/*THIS CHANGES THE COLOR OF THE DROPDOWN MENUS IN ITEMS IN THE NAVIGATION COLUMN*/
+._3m75 .selectedItem ._55yu>a, ._3m75 .sideNavItem:hover ._55yu>a, ._3m75 .selectedItem .uiSideNavEditButton a, ._3m75 .sideNavItem:hover .uiSideNavEditButton a {
+    background-color: #970aff;
+    border-color: #00ffd9;
+    transition-duration: 100ms;
+}
+
+/*THIS CHANGES THE COLOR OF THE DROPDOWN MENUS IN ITEMS IN THE NAVIGATION COLUMN BOX*/
+._558b ._54ng {
+    background-clip: padding-box;
+    background-color: #2900ff;
+    border: 1px solid rgb(0, 255, 233);
+    border-radius: 3px;
+    box-shadow: 0 3px 8px rgb(0, 225, 255);
+}
+
+/*THIS CHANGES THE DROPDOWN MENUS IN ITEMS IN THE NAVIGATION COLUMN BOX TEXT AND DIVIDER LINES LAYER1*/
+._558b ._54nc {
+    border: solid #0000;
+    border-width: 1px 0;
+    color: #98db24;
+    font-size: 12px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: normal;
+    line-height: 22px;
+    padding: 0 12px;
+}
+
+/*THIS CHANGES THE COLOR OF THE DROPDOWN MENUS IN ITEMS IN THE NAVIGATION COLUMN BOX DIVIDER LAYER2*/
+._558b ._54ak {
+    border-bottom: 1px solid #ff0000;
+    margin: 5px 7px 6px;
+    padding-top: 1px;
+}
+
+/*THIS CHANGES OTHER PEOPLES BACKGROUND IMAGE/COLOR TRANSPARENCY FOR YOUR VIEWAGE*/
+._li._li._li {
+    background: url(https://i.imgur.com/uPSYoCG.jpg);
+    color: #1d2129;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+    unicode-bidi: embed;
+    max-width: 100%;
+    height: 1080px;
+	background-repeat: repeat; 
+}
+
+-----------------------------------------------------------------------------------------
+/*THIS SECTION CUSTOMIZES THE ADD FRIEND/FRIEND REQUEST POPUP WINDOW*/
+
+/*THIS CHANGES THE ADD FRIEND ICON*/
+._h2p ._3nzl .jewelButton ._2n_9, ._h2p ._3nzl .jewelButton:hover ._2n_9, ._h2p ._3nzl .jewelButton:focus ._2n_9 {
+    background-image: url(https://i.imgur.com/EB4Xc9c.png);
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+    background-position: 2px 2px;
+    height: 24px;
+    width: 24px;
+}
+-----------------------------------------------------------------------------------------
+/*THIS SECTION CUSTOMIZES THE MESSENGER POPUP WINDOW*/
+
+/*THIS CHANGES THE MESSENGER ICON*/
+._h2p ._330i._1z4y .jewelButton ._2n_9, ._h2p ._330i._1z4y .jewelButton:hover ._2n_9, ._h2p ._330i._1z4y .jewelButton:focus ._2n_9 {
+    background-image: url(https://i.imgur.com/26Vv6Oh.png);
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+    background-position: 2px 2px;
+    height: 24px;
+    width: 24px;
+}
+
+._h2p ._330i._1z4y.hasNew .jewelButton ._2n_9, ._h2p ._330i._1z4y .jewelButton:active ._2n_9, ._h2p ._330i._1z4y.openToggler .jewelButton ._2n_9 {
+    background-image: url(https://i.imgur.com/26Vv6Oh.png);
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+    background-position: 2px 2px;
+    height: 24px;
+    width: 24px;
+}
+
+/*THIS CHANGES THE COLOR OF MESSENGER NAMES*/
+._1y2l .author, ._1y2l a.messagesContent:hover .author, ._1y2l a.messagesContent:hover .author span, ._1y2l .subject, ._1y2l a.messagesContent:hover .subject {
+    color: #dbfc05;
+}
+
+/*THIS CHANGES THE COLOR OF THE MESSENGER MESSAGE TEXT*/
+._1y2l a.messagesContent {
+    color: #07ff71;
+    display: block;
+    padding: 4px 8px;
+    text-decoration: none;
+}
+._1y2l a.messagesContent {
+    color: #07fffa;
+    display: block;
+    padding: 4px 8px;
+    text-decoration: none;
+}
+
+/*THIS CHANGES THE COLOR OF THE MESSENGER TIMESTAMP TEXT*/
+._1y2l .time .timestamp {
+    color: #07ff71;
+    display: block;
+    font-size: 12px;
+    padding-top: 2px;
+    position: absolute;
+    right: 14px;
+    top: 20%;
+}
+
+/*THIS CHANGES THE "MARK AS READ/MARK AS UNREAD" BUTTON ICON*/
+._5c9_ {
+    background-image: url(https://i.imgur.com/peIuBaK.png);
+    background-repeat: no-repeat;
+    background-size: 20px 19px;
+    background-position: 2px 2px;
+    height: 24px;
+    width: 24px;
+}
+._5c9q {
+    background-image: url(https://i.imgur.com/vCc9yNb.png);
+    background-repeat: no-repeat;
+    background-size: 10px 10px;
+    background-position: 2px 2px;
+    cursor: pointer;
+    height: 24px;
+    width: 24px;
+}
+
+/*THIS CHANGES THE COLOR OF THE MESSENGER HEADER AND DIVIDER LINE*/
+.__tw div.jewelHeader {
+    background-clip: padding-box;
+    background-color: #40e3ff00;
+    border-bottom: solid 1px #ff0000;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding: 8px 12px 6px;
+    position: relative;
+    z-index: 100;
+}
+
+/*THIS CHANGES THE COLOR OF THE RECENT & MESSAGE REQUESTS BUTTON CONTAINER*/
+._1sdi {
+    background-color: #00000000; /*BUTTON CONTAINER*/
+    color: #07ff71; /*MESSAGE REQUEST TEXT COLOR*/
+    font-weight: normal;
+    padding-right: 2px;
+}
+
+
+/*THIS CHANGES THE COLOR OF THE NEW MESSAGE CONTAINER*/
+._1y2l li.jewelItemNew a.messagesContent {
+    background-color: #1654b8b5;
+    position: relative;
+    z-index: 2;
+}
+
+/*THIS CHANGES THE COLOR OF THE MESSENGER DIVIDER LINES*/
+._1y2l .jewelContent a.messagesContent {
+    border-bottom: 1px solid #ff0000;
+    border-top: 1px solid #ff0000;
+    margin-bottom: -1px;
+    padding: 6px 30px 6px 12px;
+    position: relative;
+}
+-----------------------------------------------------------------------------------------
+/*THIS SECTION CUSTOMIZES THE NOTIFICATIONS POPUP WINDOW*/
+
+/*THIS CHANGE THE NOTIFICATION BELL ICON*/
+._h2p ._4xi2.hasNew a.jewelButton ._2n_9, ._h2p ._4xi2 a.jewelButton:active ._2n_9, ._h2p ._4xi2.openToggler a.jewelButton ._2n_9 {
+    background-image: url(https://i.imgur.com/HLuSYN8.png);
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+    background-position: 2px 2px;
+    height: 24px;
+    width: 24px;
+}
+
+._h2p ._4xi2 a.jewelButton ._2n_9, ._h2p ._4xi2 a.jewelButton:hover ._2n_9, ._h2p ._4xi2 a.jewelButton:focus ._2n_9 {
+    background-image: url(https://i.imgur.com/HLuSYN8.png);
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+    background-position: 2px 2px;
+    height: 24px;
+    width: 24px;
+}
+-----------------------------------------------------------------------------------------
+/*THIS SECTION CUSTOMIZES THE QUICK HELP POPUP WINDOW*/
+
+
+/*THIS CHANGES THE TOGGLE ICON*/
+._h2p ._4d1i ._59fc:active ._59fb, ._h2p ._4d1i.openToggler ._59fc ._59fb {
+    background-image: url(https://i.imgur.com/wj7RrHW.png);
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+    background-position: 2px 2px;
+    height: 24px;
+    width: 24px;
+}
+
+/*THIS CHANGES THE ICON*/
+._h2p ._4d1i ._59fb, ._h2p ._4d1i ._59fc:hover ._59fb, ._h2p ._4d1i ._59fc:focus ._59fb {
+    background-image: url(https://i.imgur.com/wj7RrHW.png);
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+    background-position: 2px 2px;
+    height: 24px;
+    margin-top: 0;
+    width: 24px;
+}
+
+/*THIS CHANGES THE COLOR OF THE  POPUP BOX*/
+
+.__tw {
+    background: #00000000; /*BOX COLOR*/
+    border: 1px solid rgb(0, 255, 233);
+    border-radius: 0 0 2px 2px;
+    box-shadow: 0 3px 8px rgba(7, 237, 255, 0.82);
+    color: #00000000;
+    overflow: visible;
+    position: absolute;
+    top: 38px;
+    width: 430px;
+    z-index: -1;
+}
+._yv- {
+    background: #fff0; /*POPUP BOX 2ND LAYER*/
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding-top: 6px;
+    width: 260px;
+}
+
+/*THIS CHANGES THE  SEARCH BOX BORDER COLOR*/
+html ._55r1 {
+    background: #00000000 url(/rsrc.php/v3/yU/r/O7nelmd9XSI.png) repeat-x;
+    border: 1px solid #ff0000; /*RED*/
+    color: #1d2129;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    height: 22px;
+    line-height: 16px;
+    padding: 0 8px;
+    vertical-align: middle;
+}
+
+/*THIS CHANGES THE COLOR OF THE HEADER TITLE TEXT*/
+._n27 {
+    color: #16e23e;
+    float: left;
+    font-weight: 600;
+}
+._n28 {
+    float: right;
+    color: #16e23e;
+}
+/*THIS CHANGES THE COLOR OF THE SEARCH BOX TEXT*/
+._55r1 ._58al {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #ff0000;
+}
+
+/*THIS CHANGES THE COLOR OF THE "HELP WITH THIS PAGE" TEXT*/
+._2o8x {
+    color: #16e23e;
+    font-size: 11px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    margin-left: 12px;
+}
+
+/*THIS CHANGES THE COLOR OF THE PRIMARY TEXT GROUPING*/
+._5vaf {
+    color: #16e23e;
+    float: left;
+    font-size: 12px;
+    margin-left: 4px;
+    width: 200px;
+}
+
+/*THIS CHANGES THE COLOR OF THE 2NDARY TEXT GROUPING*/
+._n22 {
+    color: #16e23e;
+    padding-left: 8px;
+}
+
+/*THIS CHANGES THE HELP SEARCH ICON*/
+.sp_MFcPtPZ1LlG_1_5x.sx_dd2ce2  {
+    background-image: url(https://i.imgur.com/qCSyIVc.png);
+    background-size: 18px 18px;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    height: 15px;
+    width: 15px;
+}
+
+/*THIS CHANGES THE PRIVACY CHECKUP ICON*/
+.sp_RZWUxPbkpRI_1_5x.sx_685f61 {
+    background-image: url(https://i.imgur.com/wDl7T2J.png);
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    height: 16px;
+    width: 16px;
+}
+
+/*THIS CHANGES THE PRIVACY SHORTCUTS ICON*/
+.sp_F2PbBN4Xe_A_1_5x.sx_a613b8 {
+    background-image: url(https://i.imgur.com/9AG8IZC.png);
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    height: 16px;
+    width: 16px;
+}
+
+/*THIS CHANGES THE SUPPORT INBOX ICON*/
+.sp_izSoVvPzCdf_1_5x.sx_a3496c {
+    background-image: url(https://i.imgur.com/Whde2p2.png);
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    height: 16px;
+    width: 16px;
+}
+
+/*THIS CHANGES THE SUPPORT INBOX ICON*/
+.sp_-q75G_CFoTh_1_5x.sx_3af557 {
+	background-image: url(https://i.imgur.com/9nIDf9E.png);
+    background-size: 17px 17px;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    height: 16px;
+    width: 16px;
+}
+
+/*THIS CHANGES 1ST LAYER DIVIDER LINES*/
+._n20 {
+    background-color: #00000000;
+    border-bottom: 1px solid #00000000;
+    border-top: 1px solid #00000000;
+    height: 6px;
+    margin-top: -1px;
+}
+
+/*THIS CHANGES 2ND LAYER DIVIDER LINES*/
+._s39 {
+    border-bottom: 1px solid #00000000;
+    display: block;
+    min-height: 16px;
+    padding-bottom: 10px;
+    padding-top: 12px;
+}
+
+/*THIS CHANGES THE COLOR OF THE SEARCH BOX BACK BUTTON CONTAINER BOX*/
+._n26 {
+    background-color: #ea080873;
+    border: none;
+    display: block;
+    margin-left: -8px;
+    z-index: 999;
+}
+
+/*THIS CHANGES THE COLOR OF THE SEARCH BOX BACK BUTTON*/
+._517h, ._59pe:focus, ._59pe:hover {
+    background-color: #ea080873;
+    border-color: #00eaff;
+    color: #25dda6;
+}
+._517h:hover {
+    background-color: #b025b8; /*HOVER COLOR*/
+}
+
+/*THIS CHANGES THE COLOR OF "HAVE A QUESTION" TEXT*/
+._5mbv {
+    color: #11ee09;
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+
+/*THIS CHANGES THE COLOR OF THE "HAVE A QUESTION" CONTAINER BOX AND DIVIDER LINE*/
+._3cql {
+    background-color: #00000000; /*BOX COLOR*/
+    border-top: 1px solid #fa0000;
+    display: block;
+    margin-top: 8px;
+    padding: 12px;
+}
+._3cql:hover, ._3cql:focus {
+    background-color: #e325e6; /*HOVER COLOR*/
+}
+-----------------------------------------------------------------------------------------
+/*THIS SECTION CUSTOMIZES THE SETTING POPUP WINDOW*/
+
+/*THIS CHANGES THE SETTINGS BUTTON  ICON*/
+._h2p ._6qfu, ._h2p ._5lxs:hover ._6qfu, ._h2p ._5lxs:focus ._6qfu {
+    background-image: url(https://i.imgur.com/uT3kBPN.png);
+    background-repeat: no-repeat;
+    background-size: 22px 22px;
+    background-position: 2px 2px;
+    height: 24px;
+    width: 24px;
+}
+-----------------------------------------------------------------------------------------
+/*THIS SECTION IS FOR SPECIFIC PROFILE CHANGES*/
+
+
+/*THIS CHANGES THE MAIN CONTENT TEXT COLOR*/
+._5v3q ._5pbx {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.38;
+    color: #d81616;
+}
+
+/*THIS CHANGES PAGE NAME TEXT COLOR*/
+._19sz a {
+    color: inherit;
+    color: #da0e0e;
+}
+
+/*THIS CHANGES PROFILE NAVIGATION BUTTONS TEXT COLOR*/
+._2yav {
+    flex: 1 1 0px;
+    margin-left: 4px;
+    overflow: hidden;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #ea1616;
+}
+
+/*THIS CHANGES THE PROFILE RELATED PAGES HEADER TEXT COLOR*/
+._4-u2>._4-u3 {
+    border-top: 1px solid #d21c1c;
+    color: #e31919;
+} 
+
+/*THIS CHANGES THE PROFILE "COMMUNITY & ABOUT" HEADER TEXT COLORS*/
+._6590 ._5dwa ._38my, ._u9q ._5dwa ._38my, ._4nl3 ._5dwa ._38my {
+    color: #f31313;
+    font-size: 14px;
+}
+
+/*THIS CHANGES THE COMMUNITY AND ABOUT BOX TEXT COLORS*/
+._3-95 {
+    margin-bottom: 8px;
+    color: #ed1010;
+}
+
+/*THIS CHANGES THE MAIN CONTENT POST TIMESTAMP TEXT COLOR*/
+._5v3q ._5pcp._2jyu, ._5v3q ._5pcp._2jyu a.uiLinkSubtle, ._5v3q ._2jyu ._5ptz, ._5v3q ._2jyu a._5pcq {
+    color: #1967dc;
+}
+
+/*THIS CHANGES THE RELATED PAGES NAME TEXT COLOR*/
+._4-lu {
+    color: #f11717;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 600;
+    max-width: 237px;
+}
+
+/*THIS CHANGES THE RELATED PAGES DECRIPTION TEXT COLOR*/
+._4yr- {
+    color: #0f5aef;
+}

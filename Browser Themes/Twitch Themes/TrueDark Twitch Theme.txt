@@ -1,0 +1,211 @@
+/*This Twitch Theme is Created by Lord of Shadows/*
+/*Theme Name: TrueDark Twitch Theme*/
+
+
+
+
+/*TrackPiece*/
+.tw-root--theme-dark .scrollable-area .simplebar-track .simplebar-scrollbar {
+    background: #2ccdef;
+    width: 15px;
+}
+
+
+/*top left navigation item button text colors*/
+.tw-root--theme-dark a {
+    color: #2effc3;
+}
+
+
+/*top left naviation drop down menu button text color*/
+.tw-root--theme-dark .twilight-root {
+    background-color: #000000;
+    color: #7439ff;
+}
+/*top left naviation drop down menu box color*/
+.tw-root--theme-dark .tw-c-background {
+    background-color: #000000!important;
+    /* box-shadow: 0px 1px #767676; */
+}
+
+/*top nav bar color*/
+.tw-root--theme-dark .top-nav__menu {
+    background-color: #000000;
+}
+
+/*top left twitch icon color*/
+.top-nav__home-link, .top-nav__home-link:hover, .tw-root--theme-dark .top-nav__home-link, .tw-root--theme-dark .top-nav__home-link:hover, .tw-root--theme-light .top-nav__home-link, .tw-root--theme-light .top-nav__home-link:hover {
+    color: #2effc3;
+}
+
+/*twitch prime and notification button colors*/
+.tw-button-icon--overlay, .tw-root--theme-dark .tw-button-icon--overlay, .tw-root--theme-light .tw-button-icon--overlay {
+    background: transparent;
+    border: 1px solid transparent;
+    color: #2effc3;
+}
+
+/*top right get bits menu bottom text color*/
+.tw-button--overlay, .tw-root--theme-dark .tw-button--overlay, .tw-root--theme-light .tw-button--overlay {
+    background: transparent;
+    border: 1px solid transparent;
+    color: #2effc3;
+}
+
+/*top right get bits menu button box outline color*/
+.tw-button--overlay.tw-button--hollow, .tw-button--overlay.tw-button--state-loading, .tw-button--overlay.tw-button--state-success, .tw-root--hover .tw-button--overlay.tw-button--hollow:hover, .tw-root--hover .tw-button--overlay.tw-button--state-loading:hover, .tw-root--hover .tw-button--overlay.tw-button--state-success:hover, .tw-root--theme-dark .tw-button--overlay.tw-button--hollow, .tw-root--theme-dark .tw-button--overlay.tw-button--state-loading, .tw-root--theme-dark .tw-button--overlay.tw-button--state-success, .tw-root--theme-dark.tw-root--hover .tw-button--overlay.tw-button--state-loading:hover, .tw-root--theme-light .tw-button--overlay.tw-button--hollow, .tw-root--theme-light .tw-button--overlay.tw-button--state-loading, .tw-root--theme-light .tw-button--overlay.tw-button--state-success, .tw-root--theme-light.tw-root--hover .tw-button--overlay.tw-button--state-loading:hover {
+    border-color: #2effc3;
+}
+
+
+/*partial left navigation channel menu recolor*/
+.tw-root--theme-dark .side-nav__overlay-wrapper, .tw-root--theme-dark .side-nav__theme-wrapper {
+    background-color: #000000;
+}
+.tw-root--theme-dark .side-nav-card__link {
+    background: #000000;
+}
+
+
+/*channel name header color*/
+.tw-root--theme-dark .channel-header {
+    background-color: #000000;
+    border-bottom: 1px solid #4000ff;
+}
+
+
+
+
+
+/*partial borders*/
+.tw-root--theme-dark .tw-border-r {
+    border-right: 1px solid #3f00fc!important;
+}
+
+
+.tw-root--theme-dark .tw-c-text-alt {
+    color: #2effc3!important;
+}
+
+
+/*channe nav name text colors*/
+.tw-root--theme-dark .side-nav-card__title {
+    color: #2effc3;
+}
+
+
+/*channel chat welcome message text*/
+.tw-root--theme-dark .side-nav-card__title {
+    color: #2effc3;
+}
+
+
+/*channel chat reward notification*/
+.reward-gift-user-notice, .user-notice-line {
+    background-color: hsla(0,0%,50.2%,.1);
+    border-left: 9px solid #6441a4;
+    word-wrap: break-word;
+}
+
+
+/*channel chat timestamp text color*/
+.tw-root--theme-dark .chat-line__timestamp {
+    color: #7037e1;
+}
+
+
+/*changes the top right channel name menu*/
+.tw-root--theme-dark .tw-c-text {
+    color: #87e9f6!important;
+}
+
+
+/*Welcome to the chat room!*/
+.tw-root--theme-dark .chat-line__moderation, .tw-root--theme-dark .chat-line__status {
+    color: #f1c624;
+}
+
+
+/*game name and view count text color*/
+.tw-root--theme-dark .tw-c-text-alt-2 {
+    color: #2effc3!important;
+}
+
+
+/*channel user header name text color*/
+.tw-root--theme-dark .channel-header__user {
+    color: #2effc3;
+}
+
+/*channel header nav text color*/
+.tw-root--theme-dark .channel-header__item {
+    color: #2effc3;
+}
+
+/*users in chat & user role name text color*/
+.tw-root--theme-dark .chat-viewers__pane {
+    background: #000000;
+    color: #2effc3;
+}
+
+/*users in chat header box*/
+.tw-root--theme-dark .chat-viewers__header {
+    background: #000000;
+    border-bottom: 1px solid #000000;
+}
+
+
+/*search & filter box colors*/
+.tw-root--theme-dark .tw-input {
+    background: #0e0c13;
+    border: 1px solid #3d00ff;
+    color: #2effc3;
+}
+
+/*stream chat header box*/
+.tw-root--theme-dark .tw-c-background-alt-2 {
+    background-color: #000000!important;
+}
+
+
+/*channel stream title box color*/
+.tw-root--theme-dark .channel-info-bar {
+    background-color: #000000;
+}
+
+/*chat text entry box color*/
+.tw-root--theme-dark .tw-textarea {
+    background: #000000;
+    border: 1px solid #4207ff;
+    color: #2effc3;
+}
+
+/*divider bars*/
+.tw-root--theme-dark .tw-border-r {
+    border-right: 1px solid #3f00fc!important;
+}
+.tw-root--theme-dark .tw-border-l {
+    border-left: 1px solid #4000ff!important;
+}
+.tw-root--theme-dark .tw-border-b {
+    border-bottom: 1px solid #4000ff!important;
+}
+.tw-root--theme-dark .tw-border-t {
+    border-top: 1px solid #4000ff!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

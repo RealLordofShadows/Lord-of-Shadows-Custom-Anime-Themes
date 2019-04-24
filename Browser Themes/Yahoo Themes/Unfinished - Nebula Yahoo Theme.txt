@@ -1,0 +1,179 @@
+/*This Yahoo Theme is Created by Lord of Shadows/*
+/*Theme Name: Nebula Yahoo Theme*/
+
+
+/*PRIMARY SECTION*/
+/* SET TO URLS STARTING WITH: https://www.yahoo.com/ */
+
+/*background image*/
+body {
+    background: url(https://i.imgur.com/uPSYoCG.jpg);
+    min-width: 1024px;
+    overflow-x: auto;
+}
+
+body {
+    padding-top: 117px;
+    min-width: 1024px;
+    height: 100%;
+}
+
+/*header transparency and color*/
+#atomic .Bgc\(\#fff\), #atomic .Bgc\(\$menuBgc\) {
+    background-color: #25979061;
+}
+
+/*main background*/
+html {
+    height: 100%;
+    overflow-y: scroll;
+    background: #2c2c2c;
+}
+
+/*text color1*/
+#atomic .C\(\#000\) {
+    color: #0078ff;
+}
+/*text color2*/
+#atomic .C\(\$link\) {
+    color: #324fe1;
+}
+/*text color3*/
+#atomic .C\(\#26282a\), #atomic .C\(\$gray\) {
+    color: #2791fc;
+}
+
+/*text color4*/
+body {
+    color: #d33737;
+    font: 13px/1.3 "Helvetica Neue",Helvetica,Arial,sans-serif;
+    height: 100%;
+    text-rendering: optimizeLegibility;
+    font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+-----------------------------------------------------------------------------------
+
+/*2NDARY SECTION*/
+/* SET TO URLS STARTING WITH: https://mail.yahoo.com */
+
+
+
+/*background image*/
+body {
+    background: url(https://i.imgur.com/vP42fcg.jpg);
+    min-width: 1024px;
+    overflow-x: auto;
+}
+
+:root {
+    --gradient-color1: #7282fb;
+    --gradient-color2: #7282fb;
+    --gradient-color3: #7934f7;
+    --highlight: #4faaff;
+    --compose-btn-color: #188fff;
+    --segment-border-color: rgba(79, 170, 255, 0.64);
+    --segment-bgcolor: rgba(79, 170, 255, 0.32);
+    --segment-hover-color: rgba(79, 170, 255, 0.08);
+    --folder-actived-bg-color: rgba(24, 143, 255, 0.32);
+    --folder-hovered-bg-color: rgba(24, 143, 255, 0.16);
+    --folder-actived-border: 2px solid #188fff;
+    --item-selected-bgcolor: rgba(24, 143, 255, 0.32);
+    --item-hovered-bgcolor: rgba(24, 143, 255, 0.16);
+    --previewr-toolbar: #7934f7;
+    --clip-btn-color: #188fff;
+    --bg-background-color: undefined;
+    --bg-color: undefined;
+    --bg-size: undefined;
+    --max-bg-size: undefined;
+    --bg-repeat: undefined;
+    --bg-repeat-img: none;
+    --bg-repeat-img-size: undefined;
+    --bg-repeat-img-position: undefined;
+    --bg-img: url(https://i.imgur.com/uPSYoCG.jpg);
+    --bg-img-size: 100px 100px;
+}
+
+body {
+    max-width: 100%;
+  
+	background-size: 100% 100% !important;
+	background-repeat: no-repeat;
+}
+
+/*email overview text color*/
+#Atom .C_ZpQYvz {
+    color: #1edec3;
+}
+
+/*email description text color*/
+#Atom .C_ZvsWfq {
+    color: #1fc52c;
+}
+
+/*change email account popout transparency and colors*/
+._yb_1c6jv {
+    background-color: #828c91;
+    border-radius: 4px;
+    border: 1px solid #4878da;
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,0.36);
+}
+
+._yb_1pztt {
+    background-color: #828c91;
+    display: block;
+    position: relative;
+    height: 73px;
+}
+._yb_10h22:link, ._yb_10h22:visited {
+    padding: 8px 0;
+    display: block;
+    background-color: #828c91;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 1px;
+    overflow: hidden;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+._yb_1h0vz {
+    background-color: #828c91;
+    height: 97px;
+    display: block;
+    position: relative;
+}
+/*email text color*/
+._yb_1czgj {
+    color: #234fdf;
+    direction: ltr;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
