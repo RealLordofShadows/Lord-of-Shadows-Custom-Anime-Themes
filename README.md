@@ -1,5 +1,5 @@
-# Lord-of-Shadows-Custom-Anime-Themes
-My Custom Anime Themes
+# Lord-of-Shadows-Custom-Anime-Themes  ("WIP!!!")
+Custom Anime Themes
 
 
 
