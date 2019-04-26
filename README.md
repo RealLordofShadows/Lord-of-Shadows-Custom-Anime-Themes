@@ -33,3 +33,7 @@ Previews:
 #### Quad Column Anime Samurai Girl Theme (will be updating preview once i acquire a fix for the server notification lines)
 
 ![Quad Column Anime Samurai Girl Theme](https://i.imgur.com/eberhfv.png)
+
+
+
+#### 5 Column Anime Samurai Girl Theme (will be adding preview once i acquire a fix for the server notification lines)
