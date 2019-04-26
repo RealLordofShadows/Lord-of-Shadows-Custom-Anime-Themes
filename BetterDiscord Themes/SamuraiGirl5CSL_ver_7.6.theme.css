@@ -139,11 +139,11 @@
 }
 
 .scrollerWrap-1IAIlv {
-    width: 262px;
+    width: 267px;
 }
 
 .wrapper-1Rf91z {
-    width: 262px;
+    width: 267px;
 }
 
 .listItem-2P_4kh {
@@ -181,8 +181,12 @@
     border-color: #33b5a9;
 }
 
-
-
+/*Server list line separator(between the friend icon and servers)*/
+.guildSeparator-3s64Iy {
+    background: #1748c3;
+    height: 5.9px;
+    width: px;
+}
 
 
 
