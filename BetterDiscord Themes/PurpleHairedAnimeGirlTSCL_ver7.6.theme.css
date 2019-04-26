@@ -170,7 +170,12 @@
     border-color: #33b5a9;
 }
 
-
+/*Server list line separator(between the friend icon and servers)*/
+.guildSeparator-3s64Iy {
+    background: #1748c3;
+    height: 5.9px;
+    width: px;
+}
 
 
 
