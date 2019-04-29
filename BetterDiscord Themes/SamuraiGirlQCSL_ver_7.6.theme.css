@@ -178,7 +178,33 @@
 }
 
 
+/*fixes broken Rainbow Circle Notifications*/
+.pill-31IEus{
+    height:54px !important;
+}
 
+.item-2hkk8m {
+    animation: var(--unread-server-animation) 3s linear infinite;
+    background-color: var(--main-color);
+    border-radius: inherit;
+    border-radius: 100%;
+    display: block;
+    margin-left: 4;
+    margin-top: 0;
+    padding-left: 1px !important;
+    padding-bottom:1px !important;
+    position: center;
+    top: 1px;
+    /* right: 2px; */
+    right: .5px;
+    width: 52px !important;
+    height: 52px !important;
+    z-index: 0;
+}
+
+.blobContainer-239gwq {
+    padding-left:3px !important;
+}
 
 
 
