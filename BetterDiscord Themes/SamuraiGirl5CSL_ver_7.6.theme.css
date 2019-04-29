@@ -135,20 +135,20 @@
 
 /*this changes the scrollbar & trackbar location*/
 .guildsWrapper-5TJh6A .scroller-wrap{
-    width: 262px;
+    width: 290px;
 }
 
 .scrollerWrap-1IAIlv {
-    width: 267px;
+    width: 290px;
 }
 
 .wrapper-1Rf91z {
-    width: 267px;
+    width: 290px;
 }
 
 .listItem-2P_4kh {
     width: auto;
-    margin-left: 1px; /*1px=5 Column server list addon(put back to 9px=4 column server list)*/
+    margin-left: 4px; /*1px=5 Column server list addon(put back to 9px=4 column server list)*/
 }
 
 
