@@ -25,13 +25,12 @@ Previews:
 
 
 
-#### Triple Column Zombie Theme (will be adding preview once i acquire a fix for the server notification lines)
-
+#### Triple Column Zombie Theme
+![Triple Column Zombie Theme](https://i.imgur.com/asXUDpk.png)
 
 
 
 #### Quad Column Anime Samurai Girl Theme
-
 ![Quad Column Anime Samurai Girl Theme](https://i.imgur.com/6e7TLBZ.png)
 
 
