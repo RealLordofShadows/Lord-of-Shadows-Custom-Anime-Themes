@@ -21,7 +21,7 @@ Previews:
 
 
 #### Triple Column Sinon Theme (will be adding preview once i acquire a fix for the server notification lines)
-
+![Triple Column Sinon Theme](https://i.imgur.com/RIQldY1.png)
 
 
 
