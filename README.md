@@ -36,4 +36,5 @@ Previews:
 
 
 
-#### 5 Column Anime Samurai Girl Theme (will be adding preview once i acquire a fix for the server notification lines)
+#### 5 Column Anime Samurai Girl Theme
+![5 Column Anime Samurai Girl Theme](https://i.imgur.com/sslmgvK.png)
