@@ -1,4 +1,4 @@
-//META{"name":"PurpleHairedAnimeGirl_TCSL","description":"Anime theme made by Lord of Shadows","author":"Lord of Shadows","version":"7.6"}*//{}
+//META{"name":"PurpleHairedAnimeGirl_TCSL","description":"Purple Haired Anime Girl theme made by LordofShadowsHoppou#2151 Core Lines & Import Core by puckzxz#2080 and Quake#1470","author":"LordofShadowsHoppou#2151","version":"7.7"}*//{}
 @import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/tcsl.css);
 
 
@@ -11,7 +11,7 @@
 
 /* If you find an image I would STRONGLY recommend rehosting the image on imgur https://imgur.com/upload */
 
-
+/*Core*/
 :root {
     /* Edit this to change your background */
     --background-image: url("https://i.imgur.com/6wpDeFA.png"); /* format is url(IMAGE URL HERE) */
@@ -51,7 +51,7 @@
 }
 -------------------------------------------------------------
 /* ADD CODE BELOW TO CUSTOMIZE THE THEME */
-
+/*My Customizations*/
 /*WORKING AS OF 11/8/2018*/
 
 /*THIS CHANGES THE COLOR OF FRIENDS ALL/ONLINE/PENDING/BLOCKED TABS SCROLLBARS*/
