@@ -135,20 +135,20 @@
 
 /*this changes the scrollbar & trackbar location*/
 .guildsWrapper-5TJh6A .scroller-wrap{
-    width: 290px;
+    width: 272px;
 }
 
 .scrollerWrap-1IAIlv {
-    width: 290px;
+    width: 270px;
 }
 
 .wrapper-1Rf91z {
-    width: 290px;
+    width: 270px;
 }
 
 .listItem-2P_4kh {
     width: auto;
-    margin-left: 4px; /*1px=5 Column server list addon(put back to 9px=4 column server list)*/
+    margin-left: 2px; /*1px=5 Column server list addon(put back to 9px=4 column server list)*/
 }
 
 
@@ -188,33 +188,7 @@
     width: ?px;
 }
 
-/*fixes broken Rainbow Circle Notifications*/
-.pill-31IEus{
-    height:54px !important;
-}
 
-.item-2hkk8m {
-    animation: var(--unread-server-animation) 3s linear infinite;
-    background-color: var(--main-color);
-    border-radius: inherit;
-    border-radius: 100%;
-    display: block;
-    margin-left: 4;
-    margin-top: 0;
-    padding-left: 1px !important;
-    padding-bottom:1px !important;
-    position: center;
-    top: 1px;
-    /* right: 2px; */
-    right: .5px;
-    width: 52px !important;
-    height: 52px !important;
-    z-index: 0;
-}
-
-.blobContainer-239gwq {
-    padding-left:3px !important;
-}
 
 
 
