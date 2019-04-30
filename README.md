@@ -15,12 +15,12 @@ Core Lines & Import Core by puckzxz#2080 and Quake#1470
 Previews:
 
 
-#### Triple Column PurpleHaired Anime Girl Theme (will be adding preview once i acquire a fix for the server notification lines)
+#### Triple Column PurpleHaired Anime Girl Theme
 ![Triple Column PurpleHaired Anime Girl Theme](https://i.imgur.com/B3KUKcf.png)
 
 
 
-#### Triple Column Sinon Theme (will be adding preview once i acquire a fix for the server notification lines)
+#### Triple Column Sinon Theme
 ![Triple Column Sinon Theme](https://i.imgur.com/RIQldY1.png)
 
 
@@ -30,7 +30,7 @@ Previews:
 
 
 
-#### Quad Column Anime Samurai Girl Theme (will be updating preview once i acquire a fix for the server notification lines)
+#### Quad Column Anime Samurai Girl Theme
 
 ![Quad Column Anime Samurai Girl Theme](https://i.imgur.com/6e7TLBZ.png)
 
