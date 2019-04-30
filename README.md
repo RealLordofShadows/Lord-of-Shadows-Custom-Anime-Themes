@@ -16,7 +16,7 @@ Previews:
 
 
 #### Triple Column PurpleHaired Anime Girl Theme (will be adding preview once i acquire a fix for the server notification lines)
-
+![Triple Column PurpleHaired Anime Girl Theme](https://i.imgur.com/B3KUKcf.png)
 
 
 
