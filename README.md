@@ -2,7 +2,7 @@
 Custom BetterDiscord & Browser Themes
 (Also compatible with Chrome or Mozilla Firefox Stylus/Stylish Extensions or other similiar extensions)
 
-Additional Customizations & Primary Base Line for 4 column & 5 Column server list by: LordofShadowsHoppou#2151
+Additional Customizations & Primary Base Line for 4 Column & 5 Column Server List by: LordofShadowsHoppou#2151
 
 Core Lines & Import Core by puckzxz#2080 and Quake#1470
 
