@@ -7,7 +7,8 @@ Additional Customizations & Primary Base Lines for 4 Column & 5 Column Server Li
 Core Lines & Import Core by puckzxz#2080 and Quake#1470
 
 
-
+(not updated in long time so these may not be fully working 100%)
+(discord decided to be an ass and change/combine alot of the lines so its much much harder now to make the custom scrollbar for the server list or customize most of the scrollbars in the first place)
 
 
 
